@@ -2,11 +2,9 @@
 
 * 链接到我
   * [关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw) 
-  * [博客园地址](https://www.cnblogs.com/Can-daydayup/)
-  * [Github地址](https://github.com/YSGStudyHards)
-  * [知乎地址](https://www.zhihu.com/people/ysgdaydayup)
-  * [掘金地址](https://juejin.cn/user/2770425031690333/posts)
-  * [Gitee地址](https://gitee.com/ysgdaydayup)
+  * [CSDN地址](https://blog.csdn.net/qq_45528578)
+  * [Github地址](https://github.com/zmggithub)
+  * [Gitee地址](https://gitee.com/Giteezmg)
 
 
 * 友情链接

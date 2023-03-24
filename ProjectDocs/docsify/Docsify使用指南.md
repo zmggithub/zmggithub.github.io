@@ -1,6 +1,6 @@
 ## Docsify使用指南
 
-![image-20211016010648260](images/image-20211016010648260.png)
+![image-20211016010648260](../images/image-20211016010648260.png)
 
 ## Node.js 安装配置
 
@@ -8,14 +8,14 @@
 
 * [Node.js最新最详细安装教程](https://blog.csdn.net/Small_Yogurt/article/details/104968169)
 
-![image-20211001044346349](images/image-20211001044346349.png)
+![image-20211001044346349](../images/image-20211001044346349.png)
 
 win+r：cmd进入命令提示符窗口，分别输入以下命令查看node和npm的版本能够正常显示版本号，则安装成功：
 
 - node -v：显示安装的nodejs版本
 - npm -v：显示安装的npm版本
 
-![image-20211001044742251](images/image-20211001044742251.png)
+![image-20211001044742251](../images/image-20211001044742251.png)
 
 
 
@@ -27,7 +27,7 @@ win+r：cmd进入命令提示符窗口，分别输入以下命令查看node和np
 npm i docsify-cli -g
 ```
 
-![image-20211001045416111](images/image-20211001045416111.png)
+![image-20211001045416111](../images/image-20211001045416111.png)
 
 
 
@@ -59,7 +59,7 @@ docsify init ./Docsify-Guide
 docsify serve Docsify-Guide
 ```
 
-![image-20211010124211458](images/image-20211010124211458.png)
+![image-20211010124211458](../images/image-20211010124211458.png)
 
 ## Linux下后台部署项目
 在Linux下如果使用下面的命令启动docsify，会发现一旦关闭了xShell，那么就访问不了了，具体问题还不清楚，下面说种可以在后台运行的方法；
@@ -209,7 +209,7 @@ bash start_docsify.sh
 [开始使用 Let Go](/README.md)
 ```
 
-![image-20211016010808681](images/image-20211016010808681.png)
+![image-20211016010808681](../images/image-20211016010808681.png)
 
 ## 侧边栏配置文件（_sidebar.md）
 
@@ -230,7 +230,7 @@ bash start_docsify.sh
 
 > 在index.html基础配置文件中设置了二级目录
 
-![image-20211010133908643](images/image-20211010133908643.png)
+![image-20211010133908643](../images/image-20211010133908643.png)
 
 **_sidebar.md**
 
@@ -238,14 +238,14 @@ bash start_docsify.sh
 <!-- _sidebar.md -->
 
 * Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
+  * [Docsify使用指南](/projectdocs/Docsify使用指南.md) <!--注意这里是相对路径-->
+  * [Typora+Docsify快速入门](/projectdocs/Typora+Docsify快速入门.md)
 * Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+  * [Docsify部署教程](/projectdocs/Docsify部署教程.md)
 
 ```
 
-![image-20211010140836290](images/image-20211010140836290.png)
+![image-20211010140836290](../images/image-20211010140836290.png)
 
 ## 导航栏配置文件（_navbar.md）
 
@@ -286,7 +286,7 @@ bash start_docsify.sh
 
 ```
 
-![image-20211016010857082](images/image-20211016010857082.png)
+![image-20211016010857082](../images/image-20211016010857082.png)
 
 
 

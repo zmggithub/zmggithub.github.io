@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Swimming, Movie**
 - 📫 How to reach me: **zmgab@qq.com**
 - 💬 My Wechat（快来扫码加我为好友吧） :
- <img height="300" width="300" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
+ <img height="200" width="200" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
 <br><br>
 <!--  技能徽章 -->
 

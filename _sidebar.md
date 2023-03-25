@@ -36,6 +36,7 @@
   * [个人简介](/projects/个人简历.md)
   
 * Docsify
+  * [Cuide](/projects/docsify/Docsify-Cuide.md)
   * [使用指南](/projects/docsify/Docsify使用指南.md)
   * [快速入门](/projects/docsify/Typora+Docsify快速入门.md)
   * [部署教程](/projects/docsify/Docsify部署教程.md)

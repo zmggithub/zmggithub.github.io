@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 You may like [My Blog](https://zmggithub.github.io/)
 - ⚡ Fun fact: **Swimming, Movie**
 - 📫 How to reach me: **zmgab@qq.com**
-- 💬 My Wechat（快来扫码加我为好友吧） :
+- 💬 My Wechat 快来扫码加好友吧:
  <img height="200" width="200" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
 <br><br>
 <!--  技能徽章 -->

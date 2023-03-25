@@ -82,15 +82,9 @@ Here are some ideas to get you started:
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
 <br>
 
 ## 🔥 关于我的Github  
-
-<!-- GitHub 数据统计 -->
-<img height="140px" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zmggithub&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmggithub&show_icons=true&theme=tokyonight)<br>
-
 <div align="center"> 
   <!-- 详细说明 -->
   <img src="https://metrics.lecoq.io/zmggithub?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"><br><br>

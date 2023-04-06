@@ -1,5 +1,11 @@
-# 联系方式
 
+  
+  [MD表情](https://emojipedia.org/)
+  [微信二维码](https://i.postimg.cc/V6MX9QQm/web.jpg)
+  [微信二维码删除链接](https://postimg.cc/delete/5Z58s9vz/140c5c37)
+  
+# 联系方式
+  
 （HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
 
 - 手机：135.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）

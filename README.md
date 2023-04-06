@@ -5,7 +5,7 @@
   ![image-20211016011310154](images/coding.gif)
 </div><br>
 
-## 🙋 I'm MingGuang Zhu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## 🙋 I'm MingGuang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!--
 **zmggithub/zmggithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **NLP**
 - 👯 Currently working in **beijing, China**
 - 🤔 I love **Reading, Coding**
-- 😄 You may like [My Blog](https://zmggithub.github.io/)
+- 😄 You may like [My Github](https://github.com/zmggithub)
 - ⚡ Fun fact: **Swimming, Movie**
-- 📫 How to reach me: **zmgab@qq.com**
+- 📫 How to reach me: **zmgmail@163.com**
 - 💬 My Wechat 快来扫码加好友吧:
  <img height="200" width="200" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
 <br><br>

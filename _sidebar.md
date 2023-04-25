@@ -3,7 +3,7 @@
     * [command](/projects/docker/DockerBase.md)  
       
 *  Linux
-    * [command](/projects/linux/linux.md)  
+    * [command](/projects/os/linux/linux.md)  
       
 *  Mysql
     * [Sql](/projects/mysql/Mysql.md)
@@ -31,7 +31,8 @@
     * [day01](/projects/git/day01.md)
     * [day02](/projects/git/day02.md)
     * [day03](/projects/git/day03.md)
-
+* 操作系统
+  * [windos系统命令](/projects/os/windows/windos_system.md)
 * 个人简介
   * [个人简介](/projects/个人简历.md)
   
